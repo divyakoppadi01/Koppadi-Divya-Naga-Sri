@@ -2,7 +2,7 @@
 
 ![Developer](https://img.freepik.com/premium-photo/anime-girl-programmer-working-computer-with-code-screen_1282444-131494.jpg)
 
-I am a **Passionate Coder & Full Stack Developer** passionate about building web and mobile applications. I love to code and explore new technologies..
+I am a **Passionate Coder & Full Stack Developer** passionate about building web and mobile applications. I love to code and explore new technologies.
 
 ---
 
